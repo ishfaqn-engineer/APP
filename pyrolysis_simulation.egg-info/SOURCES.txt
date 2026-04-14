@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+pyrolysis_simulation/__init__.py
+pyrolysis_simulation/kinetics.py
+pyrolysis_simulation/reactor.py
+pyrolysis_simulation/visualization.py
+pyrolysis_simulation.egg-info/PKG-INFO
+pyrolysis_simulation.egg-info/SOURCES.txt
+pyrolysis_simulation.egg-info/dependency_links.txt
+pyrolysis_simulation.egg-info/requires.txt
+pyrolysis_simulation.egg-info/top_level.txt
+tests/test_simulation.py
