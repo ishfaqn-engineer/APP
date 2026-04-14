@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: pyrolysis-simulation
-Version: 1.0.0
-Summary: Simulation of biomass pyrolysis in a fixed bed reactor
-Requires-Python: >=3.10
-Requires-Dist: numpy>=1.21.0
-Requires-Dist: scipy>=1.7.0
-Requires-Dist: matplotlib>=3.4.0
